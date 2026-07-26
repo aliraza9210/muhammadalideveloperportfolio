@@ -116,7 +116,7 @@ const Hero = () => {
       </div>
 
       {/* Main Content Layout (Wider 1400px Container) */}
-      <div className="relative z-10 px-6 md:px-12 max-w-[1400px] mx-auto flex flex-col-reverse lg:flex-row justify-between items-center gap-8 lg:gap-12 xl:gap-16 w-full">
+      <div className="relative z-10 px-6 md:px-12 max-w-[1400px] mx-auto flex flex-col lg:flex-row justify-between items-center gap-8 lg:gap-12 xl:gap-16 w-full">
         
         {/* Left Side: Headline & CTA */}
         <div className="flex flex-col items-start text-left max-w-xl lg:max-w-[620px] w-full">
