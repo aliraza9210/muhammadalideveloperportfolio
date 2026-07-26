@@ -1,5 +1,5 @@
 import React from 'react';
-import stackImage from '../assets/about/muhammad-ali-avatar.jpeg';
+import stackImage from '../assets/about/muhammad-ali-avatar.png';
 import { aboutContent } from '../data/portfolioData';
 
 // Tech stack SVG icons rendered inline for crisp rendering
