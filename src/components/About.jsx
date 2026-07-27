@@ -7,7 +7,7 @@ const ReactIcon = () => (
   <div className="flex flex-col items-center gap-2">
     <svg className="w-16 h-16 md:w-20 md:h-20 animate-spin-slow" viewBox="0 0 128 128">
       <g stroke="#00d8ff" strokeWidth="4.5" fill="none" transform="translate(10, 10)">
-        <ellipse cx="54" cy="54" rx="16" ry="46" transform="rotate(30 54 54)" />
+        <ellipse cx="54" cy="54" rx="16" ry="46" transform="rotate(30 54 54)" />npm run
         <ellipse cx="54" cy="54" rx="16" ry="46" transform="rotate(90 54 54)" />
         <ellipse cx="54" cy="54" rx="16" ry="46" transform="rotate(150 54 54)" />
         <circle cx="54" cy="54" r="7" fill="#00d8ff" />
